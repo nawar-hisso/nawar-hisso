@@ -21,12 +21,14 @@ From <b>Syria 🇸🇾</b> Live in 📍 <b>Dubai 🇦🇪</b>
 ## ⛷️ Skills and tecnologies
 <div>
 <ul>
-<li>ReactJS 🦾</li>
-<li>NodeJS / Express 🎬</li>
-<li>MongoDB 📦</li>
+<li>ReactJS / NextJs 🦾</li>
+<li>NodeJS / Express / NestJs 🎬</li>
+<li>MongoDB / Oracle / MySQL / PL.SQL 📦</li>
 <li>Blockchain / Solidity 🔗</li>
 <li>TypeScript / JavaScript 💻</li>
 <li>Smart Contract Integration 💰</li>
+<li>PHP / Laravel / Yii2 🐘</li>
+<li>Angular / VueJs 🛡️</li>
 </ul>
 </div>
 
