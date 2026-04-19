@@ -201,13 +201,14 @@ Across roles I've delivered up to **50% performance gains**, **30% cost reductio
 
 These are the repos I recommend pinning on the profile — they best represent the work I do:
 
+- 🚀 **[YieldPilot](https://github.com/nawar-hisso/yield-pilot)** — Gasless DeFi yield dashboard: **ERC-4626** vault on Sepolia + **ERC-4337 v0.7** smart accounts with **WebAuthn / passkey** signatures (RIP-7212), backend-signed paymaster, Pimlico bundler, The Graph subgraph. Next.js 14 · TypeScript strict · Turborepo.
 - 🧰 **[Node Bundler UI](https://github.com/nawar-hisso/node-bundler-interface)** — Frontend for Node Bundler: ERC-4337 account abstraction bundler UI (wallet connect, UserOps, sponsor / paymaster flows).
 - ⚙️ **[Node Bundler](https://github.com/nawar-hisso/node-bundler)** — Backend service for Node Bundler: UserOperation mempool, EntryPoint integration, and bundling logic.
 - 🧪 **[Mockchain](https://github.com/nawar-hisso/mockchain-assessment)** — Local EVM mock chain for rapid smart-contract development, testing, and integration scenarios.
 - 🏦 **[Multibank Group](https://github.com/nawar-hisso/multibank-group-assessment)** — Multibank Group technical assessment: full-stack &amp; smart-contract engineering sample.
 - 👗 **[UNXD](https://github.com/nawar-hisso/unxd-assignment)** — Web3 + fashion commerce sample built around the UNXD engagement (Next.js + Solidity integration).
 
-> *To pin these: GitHub → your profile → **Customize your pins** → select the five above.*
+> *To pin these: GitHub → your profile → **Customize your pins** → select the six above (GitHub allows up to 6 pins).*
 
 ---
 
