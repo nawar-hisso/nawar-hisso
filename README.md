@@ -214,7 +214,7 @@ These are the repos I recommend pinning on the profile — they best represent t
 ## 🤝 Let's Connect
 
 [![Gmail](https://img.shields.io/badge/Gmail-nawwarhisso%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:nawwarhisso@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nawar--hisso-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/nawar-hisso-96214419a/)
+<a href="https://www.linkedin.com/in/nawar-hisso-96214419a/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="28" alt="LinkedIn" /></a> [![LinkedIn](https://img.shields.io/badge/LinkedIn-nawar--hisso-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/nawar-hisso-96214419a/)
 [![Telegram](https://img.shields.io/badge/Telegram-%40iamnawar-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=26A5E4)](https://t.me/iamnawar)
 
 ---
