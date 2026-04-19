@@ -206,11 +206,11 @@ Across roles I've delivered up to **50% performance gains**, **30% cost reductio
 
 These are the repos I recommend pinning on the profile — they best represent the work I do:
 
-- 🧰 **[node-bundler-interface](https://github.com/nawar-hisso/node-bundler-interface)** — Frontend for Node Bundler: ERC-4337 account abstraction bundler UI (wallet connect, UserOps, sponsor / paymaster flows).
-- ⚙️ **[node-bundler](https://github.com/nawar-hisso/node-bundler)** — Backend service for Node Bundler: UserOperation mempool, EntryPoint integration, and bundling logic.
-- 🧪 **[mockchain](https://github.com/nawar-hisso/mockchain)** — Local EVM mock chain for rapid smart-contract development, testing, and integration scenarios.
-- 🏦 **[multibank-group-assessment](https://github.com/nawar-hisso/multibank-group-assessment)** — Multibank Group technical assessment: full-stack &amp; smart-contract engineering sample.
-- 👗 **[unxd-assignment](https://github.com/nawar-hisso/unxd-assignment)** — Web3 + fashion commerce sample built around the UNXD engagement (Next.js + Solidity integration).
+- 🧰 **[Node Bundler UI](https://github.com/nawar-hisso/node-bundler-interface)** — Frontend for Node Bundler: ERC-4337 account abstraction bundler UI (wallet connect, UserOps, sponsor / paymaster flows).
+- ⚙️ **[Node Bundler](https://github.com/nawar-hisso/node-bundler)** — Backend service for Node Bundler: UserOperation mempool, EntryPoint integration, and bundling logic.
+- 🧪 **[Mockchain](https://github.com/nawar-hisso/mockchain-assessment)** — Local EVM mock chain for rapid smart-contract development, testing, and integration scenarios.
+- 🏦 **[Multibank Group](https://github.com/nawar-hisso/multibank-group-assessment)** — Multibank Group technical assessment: full-stack &amp; smart-contract engineering sample.
+- 👗 **[UNXD](https://github.com/nawar-hisso/unxd-assignment)** — Web3 + fashion commerce sample built around the UNXD engagement (Next.js + Solidity integration).
 
 > *To pin these: GitHub → your profile → **Customize your pins** → select the five above.*
 
@@ -218,9 +218,9 @@ These are the repos I recommend pinning on the profile — they best represent t
 
 ## 🤝 Let's Connect
 
-- <img src="https://cdn.simpleicons.org/gmail/EA4335" width="20" height="20" align="center" /> &nbsp; **Email** &nbsp;·&nbsp; [nawwarhisso@gmail.com](mailto:nawwarhisso@gmail.com)
-- <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="20" height="20" align="center" /> &nbsp; **LinkedIn** &nbsp;·&nbsp; [nawar-hisso](https://www.linkedin.com/in/nawar-hisso-96214419a/)
-- <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="20" height="20" align="center" /> &nbsp; **Telegram** &nbsp;·&nbsp; [@iamnawar](https://t.me/iamnawar)
+[![Gmail](https://img.shields.io/badge/nawwarhisso%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nawwarhisso@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/nawar--hisso-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nawar-hisso-96214419a/)
+[![Telegram](https://img.shields.io/badge/%40iamnawar-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iamnawar)
 
 ---
 
