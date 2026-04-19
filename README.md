@@ -138,7 +138,7 @@ Across roles I've delivered up to **50% performance gains**, **30% cost reductio
 - Tuned APIs and database queries for a **35% improvement in system responsiveness**.
 - Shipped Web3 interfaces connected to backend smart contracts — **30% lift in user engagement**.
 - Streamlined CI/CD on GitHub + Azure DevOps — **25% faster deployments**; cut Azure cloud spend by **20%** via Lambda and resource optimization.
-- Engineered backend APIs and CMS services for smart contract interaction, driving a **20% increase in operational efficiency**.
+- Built an **AI-powered shopping assistant** and fashion recommendation models powering personalized commerce.
 
 ### 💼 [Polytrade Finance](https://polytrade.finance/) &nbsp;·&nbsp; Senior Full Stack Engineer
 *Dubai, UAE &nbsp;·&nbsp; Mar 2022 – Aug 2023*
@@ -153,7 +153,7 @@ Across roles I've delivered up to **50% performance gains**, **30% cost reductio
 *Remote &nbsp;·&nbsp; Aug 2021 – Feb 2022*
 
 - Earned a **Spot Award** for implementing parallel processing that cut batch job execution time by **50%**.
-- Shipped a new medical diagnosis feature end-to-end — **20% customer satisfaction ↑**, **15% platform usage ↑**.
+- Spearheaded an **AI-driven medical diagnosis feature** — **20% customer satisfaction ↑**, **15% platform usage ↑**.
 - Mentored junior engineers and designed a robust testing framework — **30% fewer production bugs**, **25% coverage ↑**.
 
 ### 📰 [Majarra (Haykal Media)](https://majarra.com/en) &nbsp;·&nbsp; Full Stack Web Developer
