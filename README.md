@@ -27,13 +27,13 @@
 
 I'm a **Senior Full-Stack &amp; Web3 Engineer** with **9+ years** architecting scalable web applications and decentralized platforms across **DeFi, NFT marketplaces, and enterprise systems**. I blend deep **MERN stack** expertise with **Solidity smart contracts** and cloud infrastructure on **AWS** and **Azure**, and I ship production-grade blockchain solutions that move real metrics.
 
-Across roles I've delivered up to **50% performance gains**, **30% cost reductions**, and led cross-functional teams shipping tokenization, staking, lending, and NFT products end-to-end. Recently I've been pairing AI/ML integration with Web3 — think AI shopping assistants on-chain and intelligent diagnostics in healthtech.
+Across roles I've delivered up to **50% performance gains**, **30% cost reductions**, and led cross-functional teams shipping tokenization, staking, lending, and NFT products end-to-end. My focus today: secure smart contract architecture, Layer-2 scaling, and seamless wallet-to-UI integration.
 
 ## 🎯 Currently
 
 - 🔭 Architecting **DeFi protocols** (tokenization, staking, lending) @ **Solichain** — **25+ Solidity contracts** shipped across **5 EVM networks**
 - ⛓️ Living in the smart contract security stack: **OpenZeppelin** patterns, **Slither**, **solidity-coverage**, **Echidna** fuzzing
-- 🧪 Exploring **Account Abstraction (ERC-4337)**, **L2 scaling (Arbitrum · Optimism · Base)**, **ZK proofs**, and **AI agents on-chain**
+- 🧪 Exploring **Account Abstraction (ERC-4337)**, **L2 scaling (Arbitrum · Optimism · Base)**, **ZK proofs**, and **cross-chain messaging**
 - 💬 Ask me about **DeFi protocol design**, **NFT marketplace architecture**, **Dual-Layer Tokens (DLT)**, **EVM gas optimization**, and **full-stack Web3 integration (wallet → contract → UI)**
 - 📫 Reach me at **nawwarhisso@gmail.com**
 - 🤝 **Open to Senior / Lead / Staff — Web3 &amp; Blockchain engineering roles** — full-time or freelance
@@ -138,7 +138,7 @@ Across roles I've delivered up to **50% performance gains**, **30% cost reductio
 - Tuned APIs and database queries for a **35% improvement in system responsiveness**.
 - Shipped Web3 interfaces connected to backend smart contracts — **30% lift in user engagement**.
 - Streamlined CI/CD on GitHub + Azure DevOps — **25% faster deployments**; cut Azure cloud spend by **20%** via Lambda and resource optimization.
-- Built an **AI-powered shopping assistant** and fashion recommendation models powering personalized commerce.
+- Engineered backend APIs and CMS services for smart contract interaction, driving a **20% increase in operational efficiency**.
 
 ### 💼 [Polytrade Finance](https://polytrade.finance/) &nbsp;·&nbsp; Senior Full Stack Engineer
 *Dubai, UAE &nbsp;·&nbsp; Mar 2022 – Aug 2023*
@@ -153,7 +153,7 @@ Across roles I've delivered up to **50% performance gains**, **30% cost reductio
 *Remote &nbsp;·&nbsp; Aug 2021 – Feb 2022*
 
 - Earned a **Spot Award** for implementing parallel processing that cut batch job execution time by **50%**.
-- Spearheaded an **AI-driven medical diagnosis feature** — **20% customer satisfaction ↑**, **15% platform usage ↑**.
+- Shipped a new medical diagnosis feature end-to-end — **20% customer satisfaction ↑**, **15% platform usage ↑**.
 - Mentored junior engineers and designed a robust testing framework — **30% fewer production bugs**, **25% coverage ↑**.
 
 ### 📰 [Majarra (Haykal Media)](https://majarra.com/en) &nbsp;·&nbsp; Full Stack Web Developer
@@ -213,9 +213,9 @@ These are the repos I recommend pinning on the profile — they best represent t
 
 ## 🤝 Let's Connect
 
-[![Gmail](https://img.shields.io/badge/nawwarhisso%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nawwarhisso@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/nawar--hisso-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nawar-hisso-96214419a/)
-[![Telegram](https://img.shields.io/badge/%40iamnawar-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iamnawar)
+[![Gmail](https://img.shields.io/badge/Gmail-nawwarhisso%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:nawwarhisso@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nawar--hisso-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/nawar-hisso-96214419a/)
+[![Telegram](https://img.shields.io/badge/Telegram-%40iamnawar-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=26A5E4)](https://t.me/iamnawar)
 
 ---
 
