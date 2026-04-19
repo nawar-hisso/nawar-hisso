@@ -193,11 +193,6 @@ Across roles I've delivered up to **50% performance gains**, **30% cost reductio
 
 <img src="https://streak-stats.demolab.com?user=nawar-hisso&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 
-<br />
-<br />
-
-<img src="https://github-profile-trophy.vercel.app/?username=nawar-hisso&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-
 </div>
 
 ---
