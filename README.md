@@ -208,8 +208,6 @@ These are the repos I recommend pinning on the profile — they best represent t
 - 🏦 **[Multibank Group](https://github.com/nawar-hisso/multibank-group-assessment)** — Multibank Group technical assessment: full-stack &amp; smart-contract engineering sample.
 - 👗 **[UNXD](https://github.com/nawar-hisso/unxd-assignment)** — Web3 + fashion commerce sample built around the UNXD engagement (Next.js + Solidity integration).
 
-> *To pin these: GitHub → your profile → **Customize your pins** → select the six above (GitHub allows up to 6 pins).*
-
 ---
 
 ## 🤝 Let's Connect
